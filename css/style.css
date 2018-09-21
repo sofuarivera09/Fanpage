@@ -1,5 +1,15 @@
 html {
     height: 100%;
+    background-color: #FFE08C
+}
+
+
+.header { 
+    font-size: 100px;
+    font-family: 'Vidaloka', serif;
+    text-align: center;
+    color:#1C5253;
+    
 }
 
 body {
